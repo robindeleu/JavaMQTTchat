@@ -1,0 +1,13 @@
+.AnchorPane {
+    -fx-background-color: linear-gradient(#232526,#414345);
+}
+
+.TextField{
+    -fx-background-color: linear-gradient(#232526,#414345);
+    -fx-text-fill: white;
+}
+
+.Button{
+    -fx-background-color: linear-gradient(#232526,#414345);
+    -fx-text-fill: white;
+}
